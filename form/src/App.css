@@ -47,7 +47,7 @@
   border: 2px solid blue !important;
 }
 
-#form div p {
+#form div .error-msg {
   color: red;
 }
 
