@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Basic-Form/static/css/main.d2970bcc.css",
+    "main.js": "/Basic-Form/static/js/main.ce1ab6f9.js",
+    "static/media/Montserrat-Medium.ttf": "/Basic-Form/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "index.html": "/Basic-Form/index.html",
+    "main.d2970bcc.css.map": "/Basic-Form/static/css/main.d2970bcc.css.map",
+    "main.ce1ab6f9.js.map": "/Basic-Form/static/js/main.ce1ab6f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2970bcc.css",
+    "static/js/main.ce1ab6f9.js"
+  ]
+}
